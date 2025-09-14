@@ -8,8 +8,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/wulnrydev)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/wulnrydev)
+[![GitHub followers](https://img.shields.io/github/followers/wulnrydev?style=social)](https://github.com/wulnrydev)
+[![GitHub stars](https://img.shields.io/github/stars/wulnrydev?style=social)](https://github.com/wulnrydev)
 Discord: **wulnrydev**
 
 </div>
@@ -79,14 +79,14 @@ Minecraft dünyasında **6+ yıllık**, Discord bot geliştirmede ise **3+ yıll
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wulnrydev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wulnrydev&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wulnrydev&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -125,7 +125,7 @@ Minecraft dünyasında **6+ yıllık**, Discord bot geliştirmede ise **3+ yıll
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wulnrydev&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
