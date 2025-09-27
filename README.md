@@ -115,7 +115,7 @@ Minecraft dünyasında **6+ yıllık**, Discord bot geliştirmede ise **3+ yıll
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-wulnrydev-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/902241075316535366)
+[![Discord](https://img.shields.io/badge/Discord-wulnry-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/902241075316535366)
 
 </div>
 
