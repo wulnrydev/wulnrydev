@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-> **Full Stack Developer | Game Systems Engineer | 6+ Years Experience**
+> **Full Stack Developer | Game Systems Engineer | 7+ Years Experience**
 
 Versatile developer specializing in modern web applications and game server infrastructure. I bridge the gap between elegant frontends and high-performance backend systems, from React apps to Minecraft servers handling thousands of players.
 
