@@ -154,7 +154,7 @@ const currentFocus = {
 
 <div align="center">
 
-### 💡 "From elegant web interfaces to high-performance game servers — crafting solutions that scale."
+### 💡 "From elegant web interfaces to high-performance game servers crafting solutions that scale."
 
 **Thanks for visiting! Explore my repositories and let's build something amazing together! 🚀**
 
