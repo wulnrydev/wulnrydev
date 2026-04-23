@@ -61,4 +61,5 @@ Right now I’m spending more time on:
 ## Contact
 
 - GitHub: [wulnrydev](https://github.com/wulnrydev)
+- Web: [wulnrydev.com](https://www.wulnrydev.com)
 - Discord: `wulnrydev`
