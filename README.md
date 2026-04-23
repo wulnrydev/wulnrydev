@@ -3,9 +3,6 @@
 Full-stack developer focused on building solid web apps and backend systems.  
 I mainly work with the JavaScript/TypeScript ecosystem, and I also build server-side tools and Minecraft plugins in Java.
 
-[![GitHub followers](https://img.shields.io/github/followers/wulnrydev?style=social)](https://github.com/wulnrydev)
-[![GitHub stars](https://img.shields.io/github/stars/wulnrydev?style=social)](https://github.com/wulnrydev)
-
 ## About
 
 I like building things that are practical, maintainable, and actually useful.
