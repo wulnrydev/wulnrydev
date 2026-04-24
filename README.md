@@ -1,5 +1,5 @@
 <div align="center">
-wulnrydev
+## wulnrydev
 
 ### Full-stack developer building web apps, backend systems, and Minecraft server tools.
 
