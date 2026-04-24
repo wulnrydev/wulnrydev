@@ -61,3 +61,6 @@ I care about writing clean and structured code, keeping projects maintainable, a
 * GitHub: [https://github.com/wulnrydev](https://github.com/wulnrydev)
 * Web: [https://www.wulnrydev.com](https://www.wulnrydev.com)
 * Discord: `wulnrydev`
+
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.4.1
