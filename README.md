@@ -1,7 +1,6 @@
 <div align="center">
 wulnrydev
 
-<img src="https://komarev.com/ghpvc/?username=wulnrydev&label=Profile%20views&color=0e75b6&style=flat" />
 ### Full-stack developer building web apps, backend systems, and Minecraft server tools.
 
 ## About
