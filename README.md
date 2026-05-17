@@ -1,63 +1,69 @@
 <div align="center">
-wulnrydev
 
-### Full-stack developer building web apps, backend systems, and Minecraft server tools.
+# wulnrydev
+
+**Full-stack developer** building web apps, backend systems, and Minecraft server tools.
+
+[![Website](https://img.shields.io/badge/wulnrydev.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.wulnrydev.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wulnrydev)
+[![Discord](https://img.shields.io/badge/wulnrydev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+</div>
 
 ## About
 
 I enjoy building things that are actually useful and easy to maintain over time.
 
-Most of my work revolves around the JavaScript / TypeScript ecosystem. I mainly build web applications with React and Next.js, develop backend services with Node.js, and occasionally work on Minecraft plugins and other server-side tools using Java.
+Most of my work revolves around the **JavaScript / TypeScript** ecosystem — web apps with React and Next.js, backend services with Node.js, and occasionally Minecraft plugins with Java.
 
-I care about writing clean and structured code, keeping projects maintainable, and focusing on performance where it actually matters.
+I care about clean, structured code, long-term maintainability, and performance where it actually matters.
 
-</div>
 
-## Tech I Use
+## Tech Stack
 
 **Frontend**
 
-* React
-* Next.js
-* TypeScript
-* Tailwind CSS
-* Vite
-* HTML
-* CSS
-* JavaScript
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend**
 
-* Node.js
-* Express.js
-* PHP
-* REST APIs
-* Java
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Databases**
 
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Other**
+**Tools**
 
-* discord.js
-* spigot/paper
-* Git
-* GitHub Actions
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 ## What I Build
 
-* Portfolio websites and landing pages
-* Full-stack web applications
-* Backend APIs and services
-* Discord bots
-* Minecraft plugins and server tools
+| | |
+|---|---|
+| 🌐 **Web apps** | Portfolio sites, landing pages, full-stack applications |
+| ⚡ **Backend APIs** | REST services, auth systems, server-side logic |
+| 🤖 **Discord bots** | Feature-rich bots with discord.js |
+| 🎮 **Minecraft plugins** | Spigot/Paper plugins and server tools |
+
 
 ## Contact
 
-* GitHub: [https://github.com/wulnrydev](https://github.com/wulnrydev)
-* Web: [https://www.wulnrydev.com](https://www.wulnrydev.com)
-* Discord: `wulnrydev`
+- 🌍 **Web:** [wulnrydev.com](https://www.wulnrydev.com)
+- 💬 **Discord:** `wulnrydev`
+- 🐙 **GitHub:** [@wulnrydev](https://github.com/wulnrydev)
