@@ -56,10 +56,10 @@ I care about clean, structured code, long-term maintainability, and performance 
 
 | | |
 |---|---|
-| 🌐 **Web apps** | Portfolio sites, landing pages, full-stack applications |
-| ⚡ **Backend APIs** | REST services, auth systems, server-side logic |
-| 🤖 **Discord bots** | Feature-rich bots with discord.js |
-| 🎮 **Minecraft plugins** | Spigot/Paper plugins and server tools |
+|  **Web apps** | Portfolio sites, landing pages, full-stack applications |
+|  **Backend APIs** | REST services, auth systems, server-side logic |
+|  **Discord bots** | Feature-rich bots with discord.js |
+|  **Minecraft plugins** | Spigot/Paper plugins and server tools |
 
 
 ## Contact
