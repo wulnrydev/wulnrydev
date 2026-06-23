@@ -1,10 +1,15 @@
 <div align="center">
-# wulnrydev 
+
+# wulnrydev
+
 ![Views](https://hits.sh/github.com/wulnrydev.svg?style=for-the-badge)
+
 **Full-stack developer** building web apps, backend systems, and Minecraft server tools.
+
 [![Website](https://img.shields.io/badge/wulnrydev.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.wulnrydev.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wulnrydev)
 [![Discord](https://img.shields.io/badge/wulnrydev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
 </div>
 
 ## About
