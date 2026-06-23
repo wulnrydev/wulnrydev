@@ -1,7 +1,7 @@
 <div align="center">
 
 # wulnrydev 
-![Profile views](https://komarev.com/ghpvc/?username=wulnrydev&style=for-the-badge)
+![Views](https://hits.sh/github.com/wulnrydev.svg?style=for-the-badge)
 
 **Full-stack developer** building web apps, backend systems, and Minecraft server tools.
 
