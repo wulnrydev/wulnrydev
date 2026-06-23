@@ -1,6 +1,7 @@
 <div align="center">
 
-# wulnrydev
+# wulnrydev 
+![Profile views](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&style=for-the-badge)
 
 **Full-stack developer** building web apps, backend systems, and Minecraft server tools.
 
