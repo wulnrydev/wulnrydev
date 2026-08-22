@@ -23,12 +23,11 @@ Most of my work sits in the JavaScript and TypeScript ecosystem — web interfac
 
 ## Activity
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wulnrydev&theme=transparent" width="100%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wulnrydev&theme=transparent" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wulnrydev&theme=transparent" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wulnrydev&hide_border=true&hide_title=true&bg_color=00000000&color=8b949e&line=8b949e&point=8b949e&area=true&area_color=8b949e&radius=4" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wulnrydev&theme=transparent" width="100%" />
 
 ## Contact
 
